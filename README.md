@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boussifabdelbar
 - 👀 I’m interested in .net projects
-- 🌱 I’m currently learning blazor usinf clean architecture
+- 🌱 I’m currently learning blazor using clean architecture
 - 💞️ I’m looking to collaborate on projet regarding microsoft projects
 - 📫 How to reach me www.boussif.com
 
